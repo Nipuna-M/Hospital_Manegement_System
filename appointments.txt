@@ -1,0 +1,39 @@
+Patient ID: CH001
+Patient Name: khn
+Age: 65
+Phone: 63
+Doctor: Dr. John Smith
+Specialization: Cardiologist
+Appointment Date: 15/02/2025
+Appointment Time: 10:00 AM
+Room: 101
+Disease Description: Not examined yet
+Medicines: Not prescribed yet
+Scan: Not determined yet
+
+Patient ID: CH001
+Patient Name: nipuna
+Age: 21
+Phone: 01872785024
+Doctor:  Dr. Saduni Pathirathne
+Specialization: Cardiologist
+Appointment Date: 15/02/2025
+Appointment Time: 10:00 AM
+Room: 10
+Disease Description: Not examined yet
+Medicines: Not prescribed yet
+Scan: Not determined yet
+
+Patient ID: CH001
+Patient Name: khn
+Age: 65
+Phone: 63
+Doctor: Dr. John Smith
+Specialization: Cardiologist
+Appointment Date: 15/02/2025
+Appointment Time: 10:00 AM
+Room: 101
+Disease Description: gjkh
+Medicines: hbk,hg,gj
+Scan: No scan required.
+

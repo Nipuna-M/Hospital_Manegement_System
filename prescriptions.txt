@@ -1,0 +1,10 @@
+Patient ID: OPD001
+Name: ghj
+Age: 21
+Phone: 2155
+Disease: Fever
+Symptoms: hgfj
+Medications: Paracetamol, Rest
+Treatments: Drink plenty of fluids, Stay cool, Rest
+Come Again: no
+
